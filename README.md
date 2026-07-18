@@ -1,4 +1,4 @@
-# Tic Tac Toe — Neon Pro Dashboard
+# Tic Tac Toe 
 
 ## Abstract
 Tic Tac Toe (Neon Pro Dashboard edition) is a Java Swing desktop game that reimagines classic Tic Tac Toe as a full control-center application. Beyond the 3×3 grid, it ships a live sidebar dashboard, an unbeatable-to-easy AI opponent, undo/hint/analyze tooling, five switchable color themes, and custom-painted UI components (glow buttons, gradient panels, pill toggles) built entirely with Java2D — no external UI library.
